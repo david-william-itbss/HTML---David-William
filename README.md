@@ -4,7 +4,7 @@
 <html>
 <body>
 
-<h1>Video games yang saya mainkan saat ini</h1>
+<h1>Video game yang saya mainkan saat ini</h1>
 
 <h3>Gear Club Unlimited 2.</h3>
 
